@@ -6,7 +6,7 @@ A static web application that transforms Collatz sequence values into procedural
 
 ### 🚀 Live Demo
 
-View the application live on GitHub Pages: [YourUsername.github.io/CollatzTerrain](https://YourUsername.github.io/CollatzTerrain)
+View the application live on GitHub Pages: [housamkak.github.io/Collatz-Terrain-Generator](https://housamkak.github.io/Collatz-Terrain-Generator)
 
 ---
 
@@ -51,11 +51,6 @@ Follow these instructions to get a local copy up and running.
    git clone https://github.com/YourUsername/CollatzTerrain.git
    cd CollatzTerrain
    ```
-
-2. **Deploy to GitHub Pages**
-
-   * Push the code to a GitHub repository named `CollatzTerrain`.
-   * In repository settings, enable GitHub Pages, selecting the `main` branch and `/ (root)` folder.
 
 3. **Or run locally**
 
